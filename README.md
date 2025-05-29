@@ -1,7 +1,7 @@
-# DevOps Task 3 - Git Workflow
+# DevOps Task 3 - Git Workflow from elevate labs
 
 ## Objective
-Learn Git workflows using branching, pull requests, and tags.
+Learn Git workflows using branching, pull requests, and tags. 
 
 ## Branches
 - main
