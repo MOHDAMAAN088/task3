@@ -6,7 +6,7 @@ Learn Git workflows using branching, pull requests, and tags.
 ## Branches
 - main
 - dev
-- feature-login
+- feature-readme
 
 ## Commands Used
 - git init
